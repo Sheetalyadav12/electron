@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.canvas{
+  background-color:gray;
+  width: 80%;
+  border: 5px solid gray;
+  margin-top: 4%;
+  margin-left: 9%;
+  height: 25%;
+  border-Radius: "6px 6px 0 0",
+  ;
+
+
+
+}
+
